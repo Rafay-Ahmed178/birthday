@@ -1,0 +1,25 @@
+
+    body {
+        font-family: Arial, sans-serif;
+    }
+  .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+  #birthday-form{
+    position: absolute;
+    top: 220px;
+    font-size: 30px;
+    
+  }
+  .upper{
+    border: 5px;
+    border-color: yellowgreen;
+    
+  }
+ 
+
+
+    
